@@ -1,0 +1,12 @@
+C:\Projects\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Projects\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Projects\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Projects\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+C:\Projects\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Projects\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Projects\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Projects\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Projects\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Projects\Service\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Projects\Service\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Projects\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete

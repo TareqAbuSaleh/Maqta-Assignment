@@ -1,0 +1,15 @@
+C:\Projects\ViewModel\bin\Debug\net5.0\ViewModel.deps.json
+C:\Projects\ViewModel\bin\Debug\net5.0\ViewModel.dll
+C:\Projects\ViewModel\bin\Debug\net5.0\ref\ViewModel.dll
+C:\Projects\ViewModel\bin\Debug\net5.0\ViewModel.pdb
+C:\Projects\ViewModel\obj\Debug\net5.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ViewModel\obj\Debug\net5.0\ViewModel.AssemblyInfoInputs.cache
+C:\Projects\ViewModel\obj\Debug\net5.0\ViewModel.AssemblyInfo.cs
+C:\Projects\ViewModel\obj\Debug\net5.0\ViewModel.csproj.CoreCompileInputs.cache
+C:\Projects\ViewModel\obj\Debug\net5.0\ViewModel.dll
+C:\Projects\ViewModel\obj\Debug\net5.0\ref\ViewModel.dll
+C:\Projects\ViewModel\obj\Debug\net5.0\ViewModel.pdb
+C:\Projects\ViewModel\bin\Debug\net5.0\ViewModel.runtimeconfig.json
+C:\Projects\ViewModel\bin\Debug\net5.0\ViewModel.runtimeconfig.dev.json
+C:\Projects\ViewModel\obj\Debug\net5.0\ViewModel.genruntimeconfig.cache
+C:\Projects\ViewModel\obj\Debug\net5.0\ViewModel.csprojAssemblyReference.cache

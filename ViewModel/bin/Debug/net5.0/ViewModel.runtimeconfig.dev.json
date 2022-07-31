@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tareq\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tareq\\.nuget\\packages"
+    ]
+  }
+}
